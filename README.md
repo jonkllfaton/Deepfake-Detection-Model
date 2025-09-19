@@ -20,7 +20,7 @@ Training history visualization
 🚀 Getting Started
 
 Clone the repo
-git clone https://github.com/yourusername/deepfake-detector.git
+git clone https://github.com/jonkllfaton/deepfake-detector.git
 cd deepfake-detector
 
 Install dependencies
